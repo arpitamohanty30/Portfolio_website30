@@ -369,11 +369,31 @@ span {
         font-size:  2rem;
         margin: 3rem 0;
     }
+}
     @media (max-width: 550px) {
     
         .contact p {
           font-size: 1.6rem;
         }
-      
+        .education h1{
+            padding-left:11%;
+        }
+        .education-entry img {
+            width: 120px;
+            margin-right: 32px;
+            margin-left: 10px;
+            margin-block:5px;
+        }
+        .home-img img{
+            width: 25vw;
+        }
+        .skills h1{
+            padding-left: 26%;
+          }
+          .project-content img {
+            width: 58vw;
+            height: 30vw;
+        }
+    
       }
-}
+    
